@@ -4,7 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-fk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[linkedin]: https://www.linkedin.com/in/allan-fk
+## 🌐 **Reach out to me:** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-allan-fk-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+
+
 <!--
 **allan-fk/allan-fk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,7 +8,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-allan--fk-informational?style=for-the-badge&labelColor=7F00FF&logoColor=0077b5&&color=E100FF"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@Allan_FK-informational?style=for-the-badge&labelColor=7F00FF&logoColor=1DA1F2&color=E100FF"/>][twitter]
-[<img src="https://img.shields.io/badge/Gmail-allankleinpro@gmail.com-informational?style=for-the-badge&labelColor=7F00FF&logoColor=d14836&color=E100FF"/>][gmail]
+[<img src="https://img.shields.io/badge/Mail-allankleinpro@gmail.com-informational?style=for-the-badge&labelColor=7F00FF&logoColor=d14836&color=E100FF"/>][gmail]
 
 [linkedin]: https://www.linkedin.com/in/allan-fk
 [gmail]: mailto:allankleinpro@gmail.com "Lets connect through email"

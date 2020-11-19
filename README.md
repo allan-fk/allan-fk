@@ -1,10 +1,10 @@
-### Hi there 👋
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allan-fk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-fk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🌐 **Reach out to me:** ️
+<a href="https://github.com/allan-fk">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=allan-fk&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff">
+</a>
+<a href="https://github.com/KarthikNayak024/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allan-fk&layout=compact" />
+</a>
+</br>
 
 [<img src="https://img.shields.io/badge/LinkedIn-allan--fk-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@Allan_FK-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]

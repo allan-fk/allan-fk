@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/allan-fk/allan-fk/main/assets/baner.gif"/>
 <a href="https://github.com/allan-fk">
 <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=allan-fk&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff">
 </a>

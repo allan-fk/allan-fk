@@ -1,4 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/allan-fk/allan-fk/main/assets/baner.gif"/>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=allan-fk&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <a href="https://github.com/allan-fk">
 <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=allan-fk&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff">

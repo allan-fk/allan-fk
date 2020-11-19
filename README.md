@@ -7,8 +7,8 @@
 ## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-allan--fk-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-allankleinpro@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Twitter-@Allan_FK-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
+[<img src="https://img.shields.io/badge/Gmail-allankleinpro@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 
 <!-- Links of Definitions -->
 

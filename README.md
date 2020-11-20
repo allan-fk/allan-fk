@@ -9,7 +9,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allan-fk&layout=compact&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff"" />
 
 
-## This Week I Spent My Time On 📊
+## This week I spent my time on 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=allanfk&bg_color=30,7F00FF,e100ff&text_color=fff&title_color=fff" />
 </a>
 </br>

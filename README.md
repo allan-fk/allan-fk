@@ -8,8 +8,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=allanfk&bg_color=30,7F00FF,e100ff&text_color=fff&title_color=fff" />
 </a>
 </br>
+### Currently working on 🤓
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=Project-Euler&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff"" />
 
+### Stay tuned 🤙
 [<img src="https://img.shields.io/badge/LinkedIn-allan--fk-informational?style=for-the-badge&labelColor=7F00FF&logoColor=0077b5&&color=E100FF"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@Allan_FK-informational?style=for-the-badge&labelColor=7F00FF&logoColor=1DA1F2&color=E100FF"/>][twitter]
 [<img src="https://img.shields.io/badge/Mail-allankleinpro@gmail.com-informational?style=for-the-badge&labelColor=7F00FF&logoColor=d14836&color=E100FF"/>][gmail]

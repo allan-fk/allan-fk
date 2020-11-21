@@ -1,5 +1,5 @@
 
-<img align="center" src="https://raw.githubusercontent.com/allan-fk/allan-fk/main/assets/banner6.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/allan-fk/allan-fk/main/assets/banner7.gif"/>
 
 ## My GitHub stats 🏋️‍
 <a href="https://github.com/allan-fk">

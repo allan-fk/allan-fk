@@ -1,5 +1,5 @@
 
-<img align="center" src="https://raw.githubusercontent.com/allan-fk/allan-fk/main/assets/banner7.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/allan-fk/allan-fk/main/assets/banner8.gif"/>
 
 ## My GitHub stats 🏋️‍
 <a href="https://github.com/allan-fk">
@@ -16,7 +16,9 @@
 
 ## Currently working on 🤓
 </br>
+<a href="https://github.com/allan-fk/Project-Euler">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=Project-Euler&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff""/>
+<a href="https://github.com/allan-fk/kids-educ">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=kids-educ&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff""/>
 
 ## Stay tuned 🤙

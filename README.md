@@ -3,20 +3,20 @@
 
 ## My GitHub stats 🏋️‍
 <a href="https://github.com/allan-fk">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=allan-fk&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=allan-fk&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff">
 </a>
 <a href="https://github.com/KarthikNayak024/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allan-fk&layout=compact&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff"" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allan-fk&layout=compact&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff"" />
 
 
 ## This week I spent my time on 📊
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=allanfk&bg_color=30,7F00FF,e100ff&text_color=fff&title_color=fff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=allanfk&bg_color=30,C393A8,F3C8E3&text_color=fff&title_color=fff" />
 </a>
 </br>
 
 ## Currently working on 🤓
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=Project-Euler&bg_color=30,7F00FF,e100ff&title_color=fff&text_color=fff""/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=Project-Euler&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff""/>
 
 ## Stay tuned 🤙
 

@@ -28,6 +28,4 @@
 [gmail]: mailto:allankleinpro@gmail.com "Lets connect through email"
 [twitter]: https://twitter.com/Allan_FK
 
-![Made with love in France](https://madewithlove.now.sh/fr?heart=true&colorA=%23239df8&colorB=%23ff0000&template=flat-square)
-
 ![](https://hit.yhype.halp.im/github/profile?user_id=32438040)

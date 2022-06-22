@@ -18,8 +18,6 @@
 </br>
 <a href="https://github.com/allan-fk/HackerRank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=HackerRank&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff""/>
-<a href="https://github.com/allan-fk/kids-educ">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allan-fk&repo=kids-educ&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff""/>
 
 ## Stay tuned 🤙
 

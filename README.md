@@ -29,4 +29,4 @@
 [gmail]: mailto:allankleinpro@gmail.com "Lets connect through email"
 [twitter]: https://twitter.com/Allan_FK
 
-![](https://hit.yhype.halp.im/github/profile?user_id=32438040)
+![](https://hit.yhype.me/github/profile?user_id=32438040)
